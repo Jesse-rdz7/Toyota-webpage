@@ -1,0 +1,226 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .mobileResize {
+        width: 40px;
+
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white">
+
+    <!-- view online links -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="0 0 20px" align="right">
+          <p style="color:#58595B; font-size:12px; line-height:16px; margin:0;">Having trouble viewing this email? <a href="#" target="_blank" style="color:#58595B; text-decoration: underline;">View Online</a> | <a href="#" target="_blank" style="color:#58595B; text-decoration: underline;">Ver Ofertas en Espanol</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- toyota dealer and inventory -->
+    <mj-section padding="0px 30px 0px 0px">
+      <mj-column>
+        <mj-image padding="0px 0px 0px 30px" href="#" target="_blank" align="left" width="150px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/5/b5ddbdd8-1b50-4a77-ae5a-f654adc599b3.png">
+        </mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text padding="0px 30px 0px 0px" align="right"><a href="#" target="_blank" style="color:#EB0A1E; font-size:14px; line-height:40px; font-weight:700; text-decoration: none; text-transform:uppercase;">find a dealer<a /></mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text padding="0px" align="right"><a href="#" target="_blank" style="color:#EB0A1E; font-size:14px; line-height:40px; font-weight:700; text-decoration: none; text-transform:uppercase;">search inventory<a /></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Top Image -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/34f85472-281f-47c7-bd6b-934a69e96605.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section padding="30px 0px" background-color="white">
+      <mj-column padding="0px">
+        <mj-text padding="0px 30px" align="left">
+          <h1 style="font-size:20px; font-weight:700; margin:0 0 4px"><strong>Discover what moves you in a new Toyota</strong></h1>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-button border-radius="none" padding="0px" align="center" height="50px" width="220px" background-color="#EB0A1E" border="2px solid #EB0A1E" color="#ffffff" font-size="18px" line-height="22px" font-weight="700" padding="12px" text-decoration="none">Explore Toyota</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 30px">
+      <mj-column width="540px">
+        <mj-spacer container-background-color="black" height="2px" />
+      </mj-column>
+
+    </mj-section>
+
+    <!-- 2 columns text & image section -->
+    <mj-section padding="0px 30px" background-color="white">
+      <mj-column padding="4px 14px 4px 4px">
+        <mj-text padding="0px" align="left" color="black" font-size="16px" line-height="24px">Whether you're venturing into the unkown or running errands, you can rely on Toyota to get you there safely - and in style. Learn more about our lineup and find out what's unique about every vehicle</mj-text>
+      </mj-column>
+      <mj-column padding-bottom="30px">
+        <mj-image width="225px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/7631489f-3aee-4a2f-9cc3-6480ff97e8b0.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- middle Image -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/da72ad4d-4e18-4895-8792-cba7d2e4395b.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 paragraphs -->
+    <mj-section padding="10px 20px" background-color="white">
+      <mj-column padding="0px">
+        <mj-text padding="0px" font-family="arial,helvetica,sans-serif" align="center">
+          <h1 style="font-size:25px"><strong>Driving Change for a better world</strong></h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 70px 20px 70px">
+      <mj-column padding="0px">
+        <mj-text padding="0px" align="center" font-size="16px">Toyota is moving towards our Beyond Zero vision: a carbon-neutral future. And we're letting you choose how to reduce your footprint on the road. Whether you want a Hybrid EV, Plug-in Hybrid EV, Battery EV, or Fuel Cell EV powertrain, you can find the size, style and efficiency that fits you.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Learn more button -->
+
+    <mj-section>
+      <mj-column padding="8px 0px">
+        <mj-button border-radius="none" width="280px" background-color="#58595B" border="2px solid #58595B" color="#ffffff" font-size="20px" line-height="22px" font-weight="700">Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0px 30px">
+      <mj-column width="540px">
+        <mj-spacer container-background-color="black" height="2px" />
+      </mj-column>
+
+    </mj-section>
+
+    <!-- vehicle images -->
+
+    <mj-section padding="10px 20px" background-color="white">
+      <mj-column padding="0px">
+        <mj-text padding="0px" font-family="arial,helvetica,sans-serif" align="center">
+          <h1 style="font-size:25px"><strong>Find the Toyota that's right for you</strong></h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0px" width="125px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/d63a75df-c42a-4c5e-bc8b-5f8ad949d67d.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0px" width="125px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/257e1daf-4012-43a7-8298-744b5b4c7688.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0px" width="125px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/a1deb497-3203-429a-8bb2-839dee69ac8b.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0px" width="125px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/d8a417c6-00e6-4597-ad53-05214f67913a.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- arrow links -->
+
+    <mj-section padding="0px 10px 0px 10px">
+      <mj-column>
+        <mj-image align="right" padding="0px 10px" width="20px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/de6811ae-6493-448d-b2af-a96b093f4e7d.png" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" padding="2px 0px 0px 10px" align="center"><a style="color:black; font-size:16px;"><strong>SUVs</strong></a></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image align="right" padding="0px 10px" width="20px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/de6811ae-6493-448d-b2af-a96b093f4e7d.png" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" padding="2px 0px 0px 10px" align="center"><a style="color:black; font-size:16px;"><strong>Trucks</strong></a></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image align="right" padding="0px 10px" width="20px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/de6811ae-6493-448d-b2af-a96b093f4e7d.png" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" padding="2px 0px 0px 10px" align="center"><a style="color:black; font-size:16px;"><strong>Cars</strong></a></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image align="right" padding="0px 10px" width="20px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/de6811ae-6493-448d-b2af-a96b093f4e7d.png" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" padding="2px 0px 0px 10px" align="center"><a style="color:black; font-size:16px;"><strong>Electric</strong></a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Start Exploring Button -->
+    <mj-section>
+      <mj-column padding="8px 0px">
+        <mj-button border-radius="none" width="280px" background-color="#58595B" border="2px solid #58595B" color="#ffffff" font-size="20px" line-height="22px" font-weight="700">Start Exploring</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Phone, Text, and Button -->
+    <mj-section background-color="#fafafa">
+      <mj-column width="30%" background-color="#fafafa">
+        <mj-image padding="0px" width="130px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/8b32793c-2e91-4be4-ae34-2f4fb54ffca5.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0px 0px 30px" width="70%" background-color="#fafafa">
+        <mj-text align="center" padding="5px 0px 5px 0px" font-size="25px" font-weight="700">
+          See your ride take shape
+        </mj-text>
+        <mj-text align="center" padding="5px 0px 5px 0px" font-size="16px" font-weight="400">Design the perfect vehicle using our tool.</mj-text>
+        <mj-button align="center" padding="5px 0px 5px 0px" border-radius="none" width="280px" background-color="#58595B" border="2px solid #58595B" color="#ffffff" font-size="20px" line-height="22px" font-weight="700">Start Exploring</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Toyota Care Section -->
+    <mj-wrapper padding="40px 0px 0px 0px">
+    <mj-section padding="0px 0px 0px 0px">
+      <mj-group>
+        <mj-column width="20%" padding="0px 0px 44px 0px" background-color="red">
+          <mj-image padding="30px 0px 0px 0px" align="center" width="50px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/b021cc6f-710e-4baa-9324-d8ce41643b51.png">
+          </mj-image>
+        </mj-column>
+        <mj-column width="30%" background-color="#58595B">
+          <mj-text padding="0px" color="white">
+            <p style="font-size:26px; padding:0px 0px 10px 20px;">Toyota Care</p>
+            <p style="padding:0px 0px 0px 20px; font-size:13px">24 Months of regularly scheduled<br>Maintance at no cost to you*</p>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column width="10%" background-color="#58595B">
+          <mj-text align="center" padding="50px 0px 57px 0px" color="white" font-size="20px">|</mj-text>
+        </mj-column>
+        <mj-column padding-bottom="59px" background-color="#58595B" width="10%" padding="0px">
+          <mj-image padding="50px 0px 0px 0px" width="18px" src="https://image.mail.gulfstatestoyota.com/lib/fe9715737265017877/m/1/de6811ae-6493-448d-b2af-a96b093f4e7d.png"></mj-image>
+        </mj-column>
+        <mj-column padding-bottom="11px" background-color="#58595B" width="30%">
+          <mj-text color="white" padding="50px 0px" font-size="16px">Learn More</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    </mj-wrapper>
+
+    <!--Footer Section and Text-->
+    <mj-section background-color="#DEDFE3" padding="20px 0px 0px 0px">
+    <mj-column padding="0px 30px">
+    <mj-text padding="0px" font-size="12px" line-height="16px" color="#59595B">
+    <p><strong>† </strong> Extra-cost color.</p>
+    <p>‡ Shown trims are applicable to offer listed above for vehicles purchased from Toyota dealerships in AR, LA, MS, OK, TX regardless of buyer's residency. Contact participating Dealer for details.</p>
+    <p>* ToyotaCare covers normal factory scheduled service for 2 years or 25,000 miles, whichever comes first. See Toyota dealer for details and exclusions. Valid only in the continental U.S. and Alaska.</p>
+    <p>You received this message because you once submitted your email address to or requested information from Toyota. Gulf States Toyota does not sell or rent your email address to any third parties. To learn more, view our privacy policy <a style="text-decoration:underline; color:red;">here</a>. To unsubscribe from email advertisements from Gulf States Toyota, Inc.<a style="text-decoration:underline; color:red;"> click here</a>.</p>
+    <p>This email was sent by Gulf States Toyota, 1375 Enclave Parkway, Houston, TX 77077 US. All trademarks and registered trademarks are property of their respective owners. © 2024 Gulf States Toyota All rights reserved.</p>
+    </mj-text>
+    </mj-column>
+    
+    
+    
+    </mjsection>
+
+  </mj-body>
+</mjml>
